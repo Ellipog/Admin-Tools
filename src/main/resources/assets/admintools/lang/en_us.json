@@ -1,0 +1,7 @@
+{
+  "item.admintools.chorus_stick": "Chorus Stick",
+
+  "itemGroup.admintools.admintools": "Admin Tools",
+
+  "item.admintools.chorus_stick.tooltip": "Any entity hit with this will fly up into the sky"
+}
